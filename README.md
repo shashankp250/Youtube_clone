@@ -24,6 +24,7 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm start
 ```
 ###Steps to configure git to your own repo
+```
 > git config -l
 > git config remote.origin.url "https://github.com/shashankp250/Youtube_clone.git"
 > git config -l
@@ -35,3 +36,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > git config -l
 > git config -l --local
 > git push origin HEAD
+
+```
