@@ -23,3 +23,15 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+###Steps to configure git to your own repo
+git config -l
+git config remote.origin.url "https://github.com/shashankp250/Youtube_clone.git"
+git config -l
+git branch
+git add .
+git commit -m "commit msg"
+git push origin HEAD
+git config user.name "shashankp250"
+git config -l
+git config -l --local
+git push origin HEAD
